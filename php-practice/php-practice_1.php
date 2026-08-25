@@ -117,6 +117,8 @@ function distinguishNum($num)
     };
     
     distinguishNum(5);
+
+    distinguishNum(10);
     
 
 // Q13 関数とswitch文
@@ -145,5 +147,7 @@ function evaluateGrade($Grade){
 };
 
 echo evaluateGrade('A');
+
+echo evaluateGrade('森');
 
 ?>
